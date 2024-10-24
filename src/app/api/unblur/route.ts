@@ -60,7 +60,7 @@ export const GET = async (req: Request) => {
 
     const payload: ActionGetResponse = {
       title: "Unblur an Image",
-      icon: new URL("https://i.scdn.co/image/ab67616d0000b273dfdf210243811401b2e947bd", requestUrl.origin).toString(),
+      icon: new URL("./Balaji-Blur.png", requestUrl.origin).toString(),
       description:
         "Unblur image to come closer to your creator",
       label: "Unblur",
@@ -207,7 +207,7 @@ export const POST = async (req: Request) => {
 
     const nextPayload: Action = {
       title: "Know More",
-      icon: new URL("https://images.unsplash.com/photo-1729433321272-9243b22c5f6e?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", requestUrl.origin).toString(),
+      icon: new URL("./Balaji.png", requestUrl.origin).toString(),
       description: "Want to see more, go check out your creator!",
       label: "Know more",
       links: {

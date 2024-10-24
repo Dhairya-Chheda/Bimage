@@ -1,8 +1,8 @@
 # Only Fans on Blinks: Unlock Exclusive Content
 
-<p align="center">
+<!-- <p align="center">
   <img src="./public/onlyfans.png" alt="Only Fans Logo" width="200" />
-</p>
+</p> -->
 
 Only Fans on Blinks is a revolutionary platform that brings exclusive content directly to your Solana wallet. By leveraging Solana's Blockchain Links (blinks), Only Fans on Blinks offers a seamless and user-friendly experience for creators and fans alike.
 
@@ -37,9 +37,9 @@ Only Fans on Blinks was created with one primary goal: to make accessing exclusi
 - Sit back and relax while your content is unlocked
 - Check the status of your transaction on the [Explorer](https://explorer.eclipse.xyz/?cluster=devnet)
 
-<p align="center">
+<!-- <p align="center">
   <img src="./public/onlyfans-content.png" alt="Only Fans Content" width="600" />
-</p>
+</p> -->
 
 ## The Future of Only Fans on Blinks
 
